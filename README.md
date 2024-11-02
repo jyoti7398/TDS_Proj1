@@ -21,10 +21,10 @@ Upon analyzing the scraped data, one of the most surprising findings was the cor
 3. Recommendations for Developers:
 Developers can increase their project’s visibility by focusing on documentation quality and encouraging contributions from newcomers. Open issues and welcoming contribution guidelines significantly increase engagement rates, leading to a more robust project lifecycle.
 
-## Files
+## Files and folders 
 
 1. `users.csv`: Contains information about 433 GitHub users in Chennai with over 50 followers
 2. `repositories.csv`: Contains information about 26947 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
-4. `analysis` : this folders contains the code files which are used to get all those findings.
+4. `analysis` : this folder contains the code files which are used to get all those findings.
 

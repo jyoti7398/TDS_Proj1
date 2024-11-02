@@ -26,5 +26,5 @@ Developers can increase their project’s visibility by focusing on documentatio
 1. `users.csv`: Contains information about 433 GitHub users in Chennai with over 50 followers
 2. `repositories.csv`: Contains information about 26947 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
-
+4. `analysis` : this folders contains the code files which are used to get all those findings.
 
